@@ -1,0 +1,99 @@
+[
+    {
+        "generalName": "Bag",
+        "review": "popular",
+        "brandname": "",
+        "description": "",
+        "price": "44599",
+        "quantity": 11,
+        "img": "https://i.ibb.co/gmJt12D/backpack1.png"
+    },
+    {
+        "generalName": "Bag",
+        "brandname": "",
+        "description": "",
+        "price": "44599",
+        "quantity": 22,
+        "img": "https://i.ibb.co/4gZ4NrY/backpack3.png"
+    },
+    {
+        "generalName": "Bag",
+        "brandname": "",
+        "description": "",
+        "price": "44599",
+        "quantity": 33,
+        "img": "https://i.ibb.co/m8SMSNj/backpack2.png"
+    },
+    {
+        "generalName": "Glasses",
+        "brandname": "",
+        "description": "",
+        "price": "44599",
+        "quantity": 44,
+        "img": "https://i.ibb.co/7Vt4M1W/sun1.png"
+    },
+    {
+        "generalName": "Glasses",
+        "brandname": "",
+        "description": "",
+        "price": "44599",
+        "quantity": 55,
+        "img": "https://i.ibb.co/NNCQ3Yg/sun2.png"
+    },
+    {
+        "generalName": "Glasses",
+        "brandname": "",
+        "description": "",
+        "price": "44599",
+        "quantity": 66,
+        "img": "https://i.ibb.co/r4b8yMt/sun5.png"
+    },
+    {
+        "generalName": "Glasses",
+        "brandname": "",
+        "description": "",
+        "price": "44599",
+        "quantity": 77,
+        "img": "https://i.ibb.co/B6twD87/sun4.png"
+    },
+    {
+        "generalName": "Shoe",
+        "brandname": "",
+        "description": "",
+        "price": "44599",
+        "quantity": 88,
+        "img": "https://i.ibb.co/1dWq9mV/puma1.png"
+    },
+    {
+        "generalName": "Shoe",
+        "brandname": "",
+        "description": "",
+        "price": "44599",
+        "quantity": 99,
+        "img": "https://i.ibb.co/8MhVFbG/puma2.png"
+    },
+    {
+        "generalName": "Shoe",
+        "brandname": "",
+        "description": "",
+        "price": "44599",
+        "quantity": 100,
+        "img": "https://i.ibb.co/5WXfp6f/nike1.png"
+    },
+    {
+        "generalName": "Shoe",
+        "brandname": "",
+        "description": "",
+        "price": "44599",
+        "quantity": 111,
+        "img": "https://i.ibb.co/mCMZVc3/nike2.png"
+    },
+    {
+        "generalName": "Shoe",
+        "brandname": "",
+        "description": "",
+        "price": "44599",
+        "quantity": 122,
+        "img": "https://i.ibb.co/dPp8Lt2/add1.png"
+    }
+]
